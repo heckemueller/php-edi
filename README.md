@@ -7,8 +7,12 @@ Coming up soon (WIP).
 
 
 #Implementation Scratch:
-EDI
-	- Reader
+
+
+
+\EDI
+
+    - Reader
 		public MessageDirectory\Interfaces\Reader\CanvasInterface read( stream, translationLevel [, Callback callback = null]? )
 
 	- Writer
